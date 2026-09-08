@@ -55,3 +55,6 @@ body.profile .js-metadatum > svg,
     filter: grayscale(30%);
 }
 body, html, .site-header, .site-footer, .site-body, #content, .content-wrap, .wrapper { background-color: #000000 !important; }
+
+body:has(main.w-\[450px\]), html:has(main.w-\[450px\]) { background-color: #ffffff !important; }
+
