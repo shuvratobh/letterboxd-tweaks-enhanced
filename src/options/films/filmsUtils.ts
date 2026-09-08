@@ -141,8 +141,8 @@ export class Film {
             position: "relative",
             boxShadow: "none",
             borderRadius: "8px",
-            background: "#7eb4f121",
-            backdropFilter: "blur(10px)",
+            background: "transparent",
+            backdropFilter: "none",
             overflow: "hidden"
         };
 
@@ -165,7 +165,7 @@ export class Film {
 
         let blurredImgStyles: CSS.Properties = {
             position: "absolute",
-            filter: "blur(40px)",
+            display: "none",
             zIndex: "-10",
             borderRadius: "50%"
         };
@@ -179,7 +179,7 @@ export class Film {
             case "large":
                 filmStyles = {
                     ...filmStyles,
-                    padding: "12px",
+                    padding: "0px",
                     height: "auto",
                     maxWidth: "150px"
                 };
@@ -200,7 +200,7 @@ export class Film {
                 filmStyles = {
                     ...filmStyles,
                     display: "flex",
-                    padding: "10px"
+                    padding: "0px"
                 };
 
                 blurredImgStyles = {

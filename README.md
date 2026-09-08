@@ -1,4 +1,30 @@
-![logo-128](https://github.com/user-attachments/assets/24db487d-5e4f-47d3-b769-481f71a59c7e)
+<h1 align="center">
+  <img src="public/icons/logo-128.png" alt="Letterboxd Tweaks Logo"><br>
+  Letterboxd Tweaks (Enhanced Edition)
+</h1>
+
+<p align="center">
+  <strong>A personalized, enhanced version of the popular Letterboxd Tweaks extension.</strong>
+</p>
+
+## ✨ What's New in this Enhanced Edition?
+
+I have forked the original Letterboxd Tweaks repository and made several aesthetic improvements for a cleaner, sleeker experience:
+
+1. **AMOLED Black Background** 🖤 
+   - Forced a true `#000000` black background across Letterboxd's wrapper, header, footer, and body to save battery and look stunning on OLED displays.
+2. **Removed Ambient Shadows** 🚫
+   - Disabled the blurred clone images that created messy ambient glows behind film cards.
+3. **Slimmer Film Cards** 📏
+   - Removed the bulky, translucent background padding around film cards, restoring native Letterboxd poster sizes so they no longer push down or cut off movie titles.
+4. **Minimalist Rating Badges** 🏷️
+   - Reduced the size, padding, and minimum width of the injected green/colorful rating badges so they take up less space on the posters.
+
+*(Note: Add your screenshots of these changes below!)*
+
+---
+
+## 🛠️ Original Features (Letterboxd Tweaks)
 
 <a href="https://www.buymeacoffee.com/jserwatka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: auto !important;" ></a>
 
