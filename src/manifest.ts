@@ -58,6 +58,6 @@ if (TARGET === "chrome") {
     };
 }
 
-const manifest = defineManifest(manifestBase);
+const manifest = defineManifest(manifestBase as any);
 
 export default manifest;
