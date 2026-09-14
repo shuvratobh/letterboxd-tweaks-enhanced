@@ -56,3 +56,22 @@ body.profile .js-metadatum > svg,
 }
 
 body:has(main.w-\[450px\]), html:has(main.w-\[450px\]) { background-color: #ffffff !important; }
+
+body, html, .site-header, .site-footer, .site-body, #content, .content-wrap, .wrapper,
+.panel, .promopanel, .box, .callout, .profile-mini-stats, .film-detail-header, .stats-box, 
+.crew-list, .cast-list, .subnav, .welcome-panel, .backdrop-wrapper, .backdrop-container, 
+section.section, .col-main, .col-sidebar, .canvas, .activity-summary, .film-panel, .content-panel,
+.backdrop-mask, .carousel-mask, .poster-list, .pagedlist, .reviews-container,
+.paginate, .pagination, .page-header, .tabbed-content, .subnav-pills, .subnav-tabs,
+.person-summary, .article-content, .diary-entry-row, .diary-entry-content,
+#popular-films, #recent-from-friends, #popular-with-friends,
+div[class*='bg-'], section[class*='bg-'] {
+    background-color: #000000 !important;
+    background-image: none !important;
+}
+
+.backdrop-mask::before, .backdrop-mask::after,
+.carousel-mask::before, .carousel-mask::after {
+    background: #000000 !important;
+    background-image: none !important;
+}
