@@ -60,6 +60,7 @@ body,
 .site-body,
 #content {
     background-color: #000000 !important;
+    background-image: none !important;
 }
 
 body,
@@ -71,4 +72,5 @@ html,
 .content-wrap,
 .wrapper {
     background-color: #000000 !important;
+    background-image: none !important;
 }
