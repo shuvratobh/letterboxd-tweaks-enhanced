@@ -20,7 +20,13 @@ I have forked the original Letterboxd Tweaks repository and made several aesthet
 4. **Minimalist Rating Badges** 🏷️
    - Reduced the size, padding, and minimum width of the injected green/colorful rating badges so they take up less space on the posters.
 
-*(Note: Add your screenshots of these changes below!)*
+### Enhanced Edition Screenshots
+
+#### Home Page
+<img src="screenshots/home_page.png" alt="AMOLED Black Home Page" height="400" />
+
+#### Profile Page
+<img src="screenshots/profile_page.png" alt="AMOLED Black Profile Page" height="400" />
 
 ---
 
@@ -35,18 +41,7 @@ I have forked the original Letterboxd Tweaks repository and made several aesthet
 ## Description
 This Chrome extension/Firefox add-on enhances the Letterboxd website with cleaner movie cards, a more efficient search bar featuring instant movie suggestions, and an improved user interface that hides unnecessary filters, navbar items, and sort options, along with other quality of life improvements.
 
-## Main features
-- New film cards
-  
-  <img src="https://github.com/user-attachments/assets/04d91a6c-6d90-4167-89e9-a60d8ad285e8" height="350" />
 
-- Better film page
-
-  <img src="https://github.com/user-attachments/assets/631c1e99-bd07-4cfa-b554-3e7a7db8dfa1" height="350" />
-
-- Improved search experience
-
-  <img src="https://github.com/user-attachments/assets/abbef7b9-e992-46d1-b09b-90b43d98c323" height="400" />
 
 - Hide useless filters, sort options and nav items
   ![image](https://github.com/JSerwatka/letterboxd-tweaks/assets/33938646/11f3eedd-c79c-4be6-bc63-970cb09237b2)
