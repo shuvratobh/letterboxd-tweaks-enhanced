@@ -1,8 +1,8 @@
 {
-  "name": "letterboxd-tweaks",
-  "displayName": "Letterboxd Tweaks",
-  "version": "0.0.0",
-  "description": "",
+  "name": "letterboxd-tweaks-enhanced",
+  "displayName": "Letterboxd Tweaks Enhanced",
+  "version": "1.0.0",
+  "description": "Personal fork with AMOLED dark mode and UI enhancements",
   "license": "MIT",
   "scripts": {
     "dev": "vite",

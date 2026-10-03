@@ -7,10 +7,10 @@ if (!TARGET) {
 
 const manifestBase: ManifestV3Export = {
     manifest_version: 3,
-    name: "Letterboxd Tweaks",
+    name: "Letterboxd Tweaks Enhanced",
     description:
-        "Enhance Letterboxd with cleaner movie cards, instant search suggestions, and various quality of life improvements.",
-    version: "0.0.26",
+        "Enhance Letterboxd with AMOLED dark mode, cleaner movie cards, instant search suggestions, and various quality of life improvements.",
+    version: "1.0.0",
     permissions: ["storage"],
     host_permissions: ["https://letterboxd.com/*", "https://*.letterboxd.com/*", "https://*.ltrbxd.com/*"],
     icons: {
