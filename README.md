@@ -25,6 +25,12 @@ This is a personal fork of the original Letterboxd Tweaks extension, adding seve
 #### Extension Popup (New Settings)
 <img src="screenshots/options_panel.png" alt="Extension Options Panel" width="300" />
 
+#### AMOLED Black Home Page
+<img src="screenshots/home_page.png" alt="AMOLED Black Home Page" height="400" />
+
+#### AMOLED Black Profile Page
+<img src="screenshots/profile_page.png" alt="AMOLED Black Profile Page" height="400" />
+
 #### Home Feed (Friend's Activity)
 <img src="screenshots/home_feed.png" alt="Home Feed with Rating Badges" width="600" />
 
