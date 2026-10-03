@@ -22,6 +22,9 @@ This is a personal fork of the original Letterboxd Tweaks extension, adding seve
 
 ### Enhanced Edition Screenshots
 
+#### Extension Popup (New Settings)
+<img src="screenshots/options_panel.png" alt="Extension Options Panel" width="300" />
+
 #### Home Feed (Friend's Activity)
 <img src="screenshots/home_feed.png" alt="Home Feed with Rating Badges" width="600" />
 
