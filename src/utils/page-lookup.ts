@@ -259,6 +259,10 @@ const optionToPageMap: OptionToPageMap = {
     convertRatingScale: {
         acceptedPages: ["filmSingle"],
         typeOfSearch: "positive"
+    },
+    enableAmoledBlack: {
+        acceptedPages: [],
+        typeOfSearch: "negative"
     }
 };
 

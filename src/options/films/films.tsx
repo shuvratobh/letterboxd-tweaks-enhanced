@@ -124,3 +124,30 @@ export async function moveMovieDataToHeader() {
         render(() => <GenreBadgesList genres={genreNames} />, filmHeaderSection);
     }
 }
+
+// --- DESC: Enables AMOLED Black theme ---
+export async function enableAmoledBlack() {
+    const style = document.createElement("style");
+    style.innerHTML = `
+        body:has(main.w-\\[450px\\]), html:has(main.w-\\[450px\\]) { background-color: #ffffff !important; }
+        body,
+        .site-body,
+        #content {
+            background-color: #000000 !important;
+            background-image: none !important;
+        }
+
+        body,
+        html,
+        .site-header,
+        .site-footer,
+        .site-body,
+        #content,
+        .content-wrap,
+        .wrapper {
+            background-color: #000000 !important;
+            background-image: none !important;
+        }
+    `;
+    document.head.appendChild(style);
+}

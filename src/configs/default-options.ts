@@ -48,7 +48,8 @@ export type FunctionName =
     | "profileMenuActions"
     | "navbarMenuActions"
     | "renderSearch"
-    | "hideSort";
+    | "hideSort"
+    | "enableAmoledBlack";
 
 // Type guards
 export function hasToRedirect(
@@ -65,6 +66,14 @@ export function hasToRename(
 
 export const defaultOptions: OptionType[] = [
     // ----- FILMS -----
+    {
+        id: "amoled-black-toggle-12345",
+        title: "Enable AMOLED Black",
+        description: "Forces a pure black background across the website",
+        section: "films",
+        function: "enableAmoledBlack",
+        checked: false,
+    },
     {
         id: "5a16c928-7bba-4851-8fdc-e6f59fa4d123",
         title: "Move movie data to the top",
