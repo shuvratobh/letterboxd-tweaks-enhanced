@@ -60,6 +60,21 @@ Since this is a custom fork, it is not available on the Chrome Web Store. You ca
 6. **Select the Folder:** Browse to the folder where you extracted the ZIP file (make sure you select the folder containing the `manifest.json` file) and click "Select Folder".
 7. **Done!** The extension is now installed. You can open its settings by clicking the extension icon in your toolbar.
 
+## 🚀 How to Use
+
+After installing the extension, you can easily customize your Letterboxd experience:
+
+1. Go to [letterboxd.com](https://letterboxd.com/).
+2. Click the **Puzzle piece icon** (Extensions) in the top-right corner of your browser.
+3. Click the **Pin icon** next to **Letterboxd Tweaks Enhanced** so it stays visible on your toolbar.
+4. Click the newly pinned **Letterboxd Tweaks Enhanced icon** (the gear logo).
+5. A settings popup will open! Here you can:
+   - Toggle **"Enable AMOLED Black"** on or off (requires a page reload to apply).
+   - Change movie card styles and data displayed.
+   - Hide specific features like the "Service" section or annoying navbar links.
+   - Force all new lists to be private by default.
+6. **Reload the Letterboxd page** after changing any toggle to see the effects instantly!
+
 ---
 
 ### Getting Started (For Developers)
