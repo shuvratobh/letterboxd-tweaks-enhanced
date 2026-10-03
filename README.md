@@ -48,7 +48,21 @@ This extension builds upon the excellent original [Letterboxd Tweaks](https://gi
 
 It enhances the Letterboxd website with cleaner movie cards, a more efficient search bar featuring instant movie suggestions, and an improved user interface that hides unnecessary filters, navbar items, and sort options, along with other quality of life improvements.
 
-### Getting Started (Development)
+## 📥 How to Install (For Chrome / Brave / Edge)
+
+Since this is a custom fork, it is not available on the Chrome Web Store. You can easily install it manually in a few seconds:
+
+1. **Download the Release:** Go to the [Releases](https://github.com/shuvratobh/letterboxd-tweaks-enhanced/releases) page on the right side of this GitHub repository and download the `letterboxd-tweaks-enhanced-v1.0.0.zip` file.
+2. **Extract the ZIP:** Extract the downloaded ZIP file to a folder on your computer (e.g., `Documents/Letterboxd-Tweaks`).
+3. **Open Extensions Page:** Open your browser and go to `chrome://extensions/` (or `edge://extensions/`, `brave://extensions/`).
+4. **Enable Developer Mode:** Turn on the **Developer mode** toggle in the top-right corner.
+5. **Load the Extension:** Click the **Load unpacked** button in the top-left corner.
+6. **Select the Folder:** Browse to the folder where you extracted the ZIP file (make sure you select the folder containing the `manifest.json` file) and click "Select Folder".
+7. **Done!** The extension is now installed. You can open its settings by clicking the extension icon in your toolbar.
+
+---
+
+### Getting Started (For Developers)
 1. Check if your `Node.js` version is >= **14**
 2. Clone this repo and `cd` into it
    ```shell
